@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>24</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visorapp2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles,cube</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/bootstrap/</ImageTemplate>
+            <ImageTemplateName>Bootstrap</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Helvetica Neue</TemplateFont>
+            <TemplateName>bootstrap</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/atandt.jpg</url>
+                <title>atandt</title>
+                <filesize>174438</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/celularesdelfuturo1.jpg</url>
+                <title>celularesdelfuturo1</title>
+                <filesize>18369</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/definicion01.jpg</url>
+                <title>definicion01</title>
+                <filesize>13006</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/definicion1.jpg</url>
+                <title>definicion1</title>
+                <filesize>31165</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/definición02.jpg</url>
+                <title>definición02</title>
+                <filesize>94872</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/definición2.jpg</url>
+                <title>definición2</title>
+                <filesize>71109</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/futuro2.jpg</url>
+                <title>futuro2</title>
+                <filesize>12778</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/futuro3.jpg</url>
+                <title>futuro3</title>
+                <filesize>20864</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/FUTURO4.jpg</url>
+                <title>FUTURO4</title>
+                <filesize>11606</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/gamaalta1.jpg</url>
+                <title>gamaalta1</title>
+                <filesize>261389</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
